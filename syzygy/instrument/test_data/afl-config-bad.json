@@ -1,0 +1,7 @@
+{
+    "instrument" : [
+        "fuzzme", "pattern1", /* "foo", */ "_pattern2"
+    ],
+
+    "dontinstrument" : [ "foo" ]
+}
